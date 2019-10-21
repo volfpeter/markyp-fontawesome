@@ -41,7 +41,7 @@ requirements.sort(key=lambda s: s.casefold())
 setup(
     name=NAME,
     version=_version,
-    description="Font Awesome icons for markyp-html webpages.",
+    description="Font Awesome icons for markyp-html web pages.",
     long_description=readme,
     long_description_content_type="text/markdown",
     url=_url,
