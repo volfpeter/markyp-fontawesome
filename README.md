@@ -17,20 +17,20 @@ The project is listed on the Python Package Index, it can be installed simply by
 
 First of all, you should acquire a Font Awesome kit code [here](https://fontawesome.com/start).
 
-### Creating icons for `markyp-html` webpages
+### Creating icons for `markyp-html` web pages
 
 If you are not familiar with the basic concepts of `markyp`, please start by having a look at its documentation [here](https://github.com/volfpeter/markyp).
 
-The following example code shows the creation of a webpage that displays a large, spinning Python logo over a solid square.
+The following example code shows the creation of a web page that displays a large, spinning Python logo over a solid square.
 
 ```Python
-# markyp-html webpage element
+# markyp-html web page element
 from markyp_html import webpage
 
 # Font Awesome imports
 from markyp_fontawesome import kit_import, brand, solid, stack, IconStyle as IS
 
-# Your Font Awesome kit code.
+# Your Font Awesome kit code
 fa_kit_code = "a076d05399"
 
 page = webpage(

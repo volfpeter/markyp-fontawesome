@@ -1,5 +1,5 @@
 """
-Font Awesome icons for `markyp-html`-based webpages.
+Font Awesome icons for `markyp-html`-based web pages.
 """
 
 __author__ = "Peter Volf"
