@@ -1,2 +1,3 @@
-markyp>=0.1910
-markyp-html>=0.1910
+-i https://pypi.org/simple/
+markyp-html==0.1910.0
+markyp==0.1910.0
